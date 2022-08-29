@@ -14,7 +14,7 @@ public class Q11
 		Scanner sc= new Scanner(System.in);
 		System.out.println("Enter number::");
 		num =sc.nextInt();
-		System.out.printf("%d + %d%d + %d%d%d ",num,num,num,num,num,num,num);
+		System.out.printf("%d + %d%d + %d%d%d ",num,num,num,num,num,num);
 		
 		
 	}
